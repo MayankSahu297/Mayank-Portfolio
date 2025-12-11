@@ -1,6 +1,9 @@
 # Mayank Sahu - Portfolio Website
+Live Demo:
 
-A modern, responsive portfolio website built with React, Vite, and Tailwind CSS featuring a stunning dark theme with neon cyan/green accents.
+👉 https://mayank-portfolio-nine.vercel.app/
+
+A modern and responsive personal portfolio website built with React, Vite, and Tailwind CSS, featuring a dark theme with neon cyan/green accents. Designed to showcase projects, skills, and experience in a clean, interactive way.
 
 ## 🚀 Features
 
@@ -33,42 +36,21 @@ A modern, responsive portfolio website built with React, Vite, and Tailwind CSS 
 ### Steps
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/MayankSahu297/portfolio-mayank.git
-   cd portfolio-mayank
-   ```
+   
 
 2. **Install dependencies**
-   ```bash
-   npm install
-   ```
+   
 
 3. **Add your assets** (IMPORTANT!)
-   - Place your **resume PDF** in `public/assets/Mayank-Sahu-Resume.pdf`
-   - Place your **3D model GLB** file in `public/assets/mayank-3d.glb`
-   - Profile photo is already generated, but you can replace `public/assets/profile.jpg` with your own
-
+   
 4. **Configure EmailJS** (for contact form)
-   - Sign up at [EmailJS](https://www.emailjs.com/)
-   - Create a service and template
-   - Update the credentials in `src/components/Contact.jsx`:
-     ```javascript
-     const SERVICE_ID = 'your_service_id';
-     const TEMPLATE_ID = 'your_template_id';
-     const PUBLIC_KEY = 'your_public_key';
-     ```
-   - Uncomment the EmailJS send call and remove the simulated delay
+  
 
 5. **Run development server**
-   ```bash
-   npm run dev
-   ```
-   Open [http://localhost:5173](http://localhost:5173) in your browser
+  
 
 6. **Build for production**
-   ```bash
-   npm run build
-   ```
+   
 
 ## 📁 Project Structure
 

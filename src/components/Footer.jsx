@@ -51,7 +51,7 @@ const Footer = () => {
                                 <Github className="w-5 h-5 group-hover:text-accent-cyan transition-colors" />
                             </a>
                             <a
-                                href="https://www.linkedin.com/in/mayank-sahu-0a2bb42ba"
+                                href="https://www.linkedin.com/in/mayank-sahu-587224318/"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="p-3 bg-dark-bg border border-gray-800 rounded-lg hover:border-accent-cyan 

@@ -128,7 +128,7 @@ const Hero = () => {
                                 <Github className="w-6 h-6 group-hover:text-accent-cyan transition-colors" />
                             </a>
                             <a
-                                href="https://www.linkedin.com/in/mayank-sahu-0a2bb42ba"
+                                href="https://www.linkedin.com/in/mayank-sahu-587224318/"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="p-3 bg-dark-card border border-gray-800 rounded-lg hover:border-accent-cyan 
